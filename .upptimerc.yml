@@ -5,12 +5,35 @@ repo: status-page # The name of this repository
 sites:
   - name: Xibo Signage Website
     url: https://xibo.org.uk
+  - name: Xibo Cloud United Kingdom/London
+    url: $CLOUD_GB_URL
+  - name: Xibo Cloud CDN United Kingdom/London
+    url: $CLOUD_GB_CDN_URL
+  - name: Xibo Cloud United States/New York
+    url: $CLOUD_NYC_URL
+  - name: Xibo Cloud CDN United States/New York
+    url: $CLOUD_NYC_CDN_URL
+  - name: Xibo Cloud Germany/Frankfurt
+    url: $CLOUD_DEU_URL
+  - name: Xibo Cloud CDN Germany/Frankfurt
+    url: $CLOUD_DEU_CDN_URL
+  - name: Xibo Cloud Singapore/Singapore
+    url: $CLOUD_SGP_URL
+  - name: Xibo Cloud CDN Singapore/Singapore
+    url: $CLOUD_SGP_CDN_URL
+  - name: Xibo Cloud Australia/Sydney
+    url: $CLOUD_AUS_URL
+  - name: Xibo Cloud CDN Australia/Sydney
+    url: $CLOUD_AUS_CDN_URL
   - name: Xibo Signage Customer Portal
     url: https://app.xibo.org.uk
+  - name: Xibo Player License Service
+    url: $PLAYER_LICENSE_URL
   - name: Xibo Signage Blog
     url: https://blog.xibo.org.uk
   - name: Xibo Adspace Website
     url: https://xibo-adspace.com
+
 
 assignees:
   - alexharrington
