@@ -45,8 +45,8 @@ status-website:
   baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/xibosignage/status-page/master/assets/xibo-logo.png
   name: Xibo Signage Service Status
-  introTitle: "Xibo Service Status"
-  introMessage: All latencies are measures from west-coast US and are not indicative of local latency from your location.
+  introTitle: "Live Service Status"
+  introMessage: All latencies are measures from west-coast US and are not indicative of local latency from your location. If you are having an issue and all services are up and running, please open a ticket with our support team who can assist you. https://xibo.org.uk/help 
   navbar:
     - title: Status
       href: /
