@@ -113,20 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xibo-cloud-cdn-germany-frankfurt",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.89%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.93%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 421,
     "timeDay": 383,
     "timeWeek": 518,
     "timeMonth": 435,
     "timeYear": 421,
-    "dailyMinutesDown": {
-      "2022-04-29": 416,
-      "2022-04-28": 100
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xibo Cloud Singapore/Singapore",
