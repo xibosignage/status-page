@@ -4,9 +4,9 @@
     "url": "https://xibo.org.uk",
     "icon": "https://favicons.githubusercontent.com/xibo.org.uk",
     "slug": "xibo-signage-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 597,
     "timeMonth": 579,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "Xibo Cloud United Kingdom/London",
@@ -202,9 +204,9 @@
     "url": "https://app.xibo.org.uk",
     "icon": "https://favicons.githubusercontent.com/app.xibo.org.uk",
     "slug": "xibo-signage-customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,16 +215,18 @@
     "timeWeek": 385,
     "timeMonth": 397,
     "timeYear": 404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "Xibo Player License Service",
     "url": "$PLAYER_LICENSE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xibo-player-license-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -231,16 +235,18 @@
     "timeWeek": 308,
     "timeMonth": 330,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "Xibo Signage Blog",
     "url": "https://blog.xibo.org.uk",
     "icon": "https://favicons.githubusercontent.com/blog.xibo.org.uk",
     "slug": "xibo-signage-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -249,7 +255,9 @@
     "timeWeek": 653,
     "timeMonth": 544,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "Xibo Adspace Website",
