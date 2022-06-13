@@ -58,19 +58,19 @@
     "url": "$CLOUD_NYC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xibo-cloud-united-states-new-york",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 161,
-    "timeDay": 80,
-    "timeWeek": 174,
-    "timeMonth": 180,
-    "timeYear": 161,
+    "time": 163,
+    "timeDay": 215,
+    "timeWeek": 196,
+    "timeMonth": 185,
+    "timeYear": 163,
     "dailyMinutesDown": {
-      "2022-06-13": 8
+      "2022-06-13": 14
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xibo-cloud-germany-frankfurt",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 311,
     "timeDay": 291,
     "timeWeek": 295,
     "timeMonth": 341,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 7
     }
   },
   {
