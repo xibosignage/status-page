@@ -49,7 +49,7 @@ status-website:
   introMessage: All latencies are measured from mainland United States and are not indicative of local latency from your location. If you are having an issue and all services are up and running, please open a ticket with our support team who can assist you.
   navbar:
     - title: Status
-      href: /
+      href: /status-page/
     - title: Support
       href: https://xibo.org.uk/help
 
