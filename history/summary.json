@@ -207,9 +207,9 @@
     "url": "https://app.xibo.org.uk",
     "icon": "https://favicons.githubusercontent.com/app.xibo.org.uk",
     "slug": "xibo-signage-customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -218,16 +218,18 @@
     "timeWeek": 491,
     "timeMonth": 469,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 0
+    }
   },
   {
     "name": "Xibo Player License Service",
     "url": "$PLAYER_LICENSE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xibo-player-license-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -236,7 +238,9 @@
     "timeWeek": 355,
     "timeMonth": 353,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 0
+    }
   },
   {
     "name": "Xibo Signage Blog",
