@@ -4,9 +4,9 @@
     "url": "https://xibo.org.uk",
     "icon": "https://favicons.githubusercontent.com/xibo.org.uk",
     "slug": "xibo-signage-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 719,
     "timeMonth": 780,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 0
+    }
   },
   {
     "name": "Xibo Cloud United Kingdom/London",
@@ -207,9 +209,9 @@
     "url": "https://app.xibo.org.uk",
     "icon": "https://favicons.githubusercontent.com/app.xibo.org.uk",
     "slug": "xibo-signage-customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -218,7 +220,9 @@
     "timeWeek": 456,
     "timeMonth": 467,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 0
+    }
   },
   {
     "name": "Xibo Player License Service",
