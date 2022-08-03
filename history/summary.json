@@ -4,19 +4,19 @@
     "url": "https://xibo.org.uk",
     "icon": "https://favicons.githubusercontent.com/xibo.org.uk",
     "slug": "xibo-signage-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 686,
-    "timeWeek": 719,
-    "timeMonth": 780,
-    "timeYear": 670,
+    "time": 676,
+    "timeDay": 1051,
+    "timeWeek": 806,
+    "timeMonth": 800,
+    "timeYear": 676,
     "dailyMinutesDown": {
-      "2022-08-03": 0
+      "2022-08-03": 8
     }
   },
   {
@@ -209,19 +209,19 @@
     "url": "https://app.xibo.org.uk",
     "icon": "https://favicons.githubusercontent.com/app.xibo.org.uk",
     "slug": "xibo-signage-customer-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 373,
-    "timeWeek": 456,
-    "timeMonth": 467,
-    "timeYear": 435,
+    "time": 442,
+    "timeDay": 879,
+    "timeWeek": 572,
+    "timeMonth": 495,
+    "timeYear": 442,
     "dailyMinutesDown": {
-      "2022-08-03": 0
+      "2022-08-03": 8
     }
   },
   {
