@@ -171,18 +171,20 @@
     "url": "$CLOUD_AUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xibo-cloud-australia-sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 511,
-    "timeWeek": 432,
-    "timeMonth": 429,
-    "timeYear": 456,
-    "dailyMinutesDown": {}
+    "time": 532,
+    "timeDay": 5839,
+    "timeWeek": 1505,
+    "timeMonth": 745,
+    "timeYear": 532,
+    "dailyMinutesDown": {
+      "2022-08-10": 0
+    }
   },
   {
     "name": "Xibo Cloud CDN Australia/Sydney",
