@@ -171,19 +171,19 @@
     "url": "$CLOUD_AUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xibo-cloud-australia-sydney",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 532,
-    "timeDay": 5839,
-    "timeWeek": 1505,
-    "timeMonth": 745,
+    "timeDay": 4051,
+    "timeWeek": 1412,
+    "timeMonth": 737,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2022-08-10": 0
+      "2022-08-10": 21
     }
   },
   {
