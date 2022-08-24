@@ -5,30 +5,43 @@ repo: status-page # The name of this repository
 sites:
   - name: Xibo Signage Website
     url: https://xibosignage.com
+    showAverageResponseTime: false
   - name: Xibo Cloud United Kingdom/London
     url: $CLOUD_GB_URL
+    showAverageResponseTime: false
   - name: Xibo Cloud CDN United Kingdom/London
     url: $CLOUD_GB_CDN_URL
+    showAverageResponseTime: false
   - name: Xibo Cloud United States/New York
     url: $CLOUD_NYC_URL
+    showAverageResponseTime: false
   - name: Xibo Cloud CDN United States/New York
     url: $CLOUD_NYC_CDN_URL
+    showAverageResponseTime: false
   - name: Xibo Cloud Germany/Frankfurt
     url: $CLOUD_DEU_URL
+    showAverageResponseTime: false
   - name: Xibo Cloud CDN Germany/Frankfurt
     url: $CLOUD_DEU_CDN_URL
+    showAverageResponseTime: false
   - name: Xibo Cloud Singapore/Singapore
     url: $CLOUD_SGP_URL
+    showAverageResponseTime: false
   - name: Xibo Cloud CDN Singapore/Singapore
     url: $CLOUD_SGP_CDN_URL
+    showAverageResponseTime: false
   - name: Xibo Cloud Australia/Sydney
     url: $CLOUD_AUS_URL
+    showAverageResponseTime: false
   - name: Xibo Cloud CDN Australia/Sydney
     url: $CLOUD_AUS_CDN_URL
+    showAverageResponseTime: false
   - name: Xibo Player License Service
     url: $PLAYER_LICENSE_URL
+    showAverageResponseTime: false
   - name: Xibo Adspace Website
     url: https://xibo-adspace.com
+    showAverageResponseTime: false
 
 
 assignees:
@@ -42,7 +55,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/xibosignage/status-page/master/assets/xibo-logo.png
   name: Xibo Signage Service Status
   introTitle: "Live Service Status"
-  introMessage: All latencies are measured from mainland United States and are not indicative of local latency from your location. If you are having an issue and all services are up and running, please open a ticket with our support team who can assist you.
+  introMessage: If you are having an issue and all services are up and running, please open a ticket with our support team who can assist you.
   navbar:
     - title: Status
       href: /status-page/
