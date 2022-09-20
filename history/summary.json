@@ -4,19 +4,19 @@
     "url": "https://xibosignage.com",
     "icon": "https://favicons.githubusercontent.com/xibosignage.com",
     "slug": "xibo-signage-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 714,
-    "timeDay": 572,
-    "timeWeek": 690,
-    "timeMonth": 828,
+    "timeDay": 652,
+    "timeWeek": 695,
+    "timeMonth": 825,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2022-09-20": 1
+      "2022-09-20": 24
     }
   },
   {
@@ -211,19 +211,19 @@
     "url": "$PLAYER_LICENSE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xibo-player-license-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 342,
-    "timeDay": 266,
-    "timeWeek": 421,
-    "timeMonth": 342,
+    "timeDay": 289,
+    "timeWeek": 407,
+    "timeMonth": 341,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2022-09-20": 0
+      "2022-09-20": 23
     }
   },
   {
