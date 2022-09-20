@@ -4,10 +4,10 @@
     "url": "https://xibosignage.com",
     "icon": "https://favicons.githubusercontent.com/xibosignage.com",
     "slug": "xibo-signage-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 714,
@@ -15,7 +15,9 @@
     "timeWeek": 690,
     "timeMonth": 828,
     "timeYear": 714,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "Xibo Cloud United Kingdom/London",
@@ -209,9 +211,9 @@
     "url": "$PLAYER_LICENSE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xibo-player-license-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -220,7 +222,9 @@
     "timeWeek": 421,
     "timeMonth": 342,
     "timeYear": 342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   },
   {
     "name": "Xibo Adspace Website",
