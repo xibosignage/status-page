@@ -4,9 +4,9 @@
     "url": "https://xibosignage.com",
     "icon": "https://icons.duckduckgo.com/ip3/xibosignage.com.ico",
     "slug": "xibo-signage-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 766,
     "timeYear": 748,
     "dailyMinutesDown": {
+      "2023-01-04": 0,
       "2022-11-10": 34,
       "2022-09-20": 24
     }
