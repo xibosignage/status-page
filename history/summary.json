@@ -103,9 +103,9 @@
     "slug": "xibo-cloud-germany-frankfurt",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 410,
     "timeDay": 2295,
@@ -113,7 +113,6 @@
     "timeMonth": 1049,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2023-01-05": 7,
       "2022-06-14": 25,
       "2022-06-13": 14
     }
