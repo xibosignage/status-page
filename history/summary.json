@@ -101,9 +101,9 @@
     "url": "$CLOUD_DEU_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-germany-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -113,6 +113,7 @@
     "timeMonth": 608,
     "timeYear": 402,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-06-14": 25,
       "2022-06-13": 14
     }
@@ -142,18 +143,16 @@
     "slug": "xibo-cloud-singapore-singapore",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 506,
     "timeDay": 494,
     "timeWeek": 464,
     "timeMonth": 476,
     "timeYear": 506,
-    "dailyMinutesDown": {
-      "2023-01-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xibo Cloud CDN Singapore/Singapore",
