@@ -39,10 +39,6 @@ sites:
   - name: Xibo Player License Service
     url: $PLAYER_LICENSE_URL
     showAverageResponseTime: false
-  - name: Xibo Adspace Website
-    url: https://xibo-adspace.com
-    showAverageResponseTime: false
-
 
 assignees:
   - alexharrington
