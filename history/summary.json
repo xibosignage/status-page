@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 750,
     "timeDay": 547,
-    "timeWeek": 741,
+    "timeWeek": 708,
     "timeMonth": 776,
     "timeYear": 750,
     "dailyMinutesDown": {
@@ -25,17 +25,17 @@
     "url": "$CLOUD_GB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-united-kingdom-london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 223,
-    "timeWeek": 292,
-    "timeMonth": 294,
-    "timeYear": 309,
+    "time": 340,
+    "timeDay": 5256,
+    "timeWeek": 1724,
+    "timeMonth": 606,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2022-10-12": 16
     }
@@ -53,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 445,
     "timeDay": 395,
-    "timeWeek": 404,
+    "timeWeek": 390,
     "timeMonth": 408,
     "timeYear": 445,
     "dailyMinutesDown": {}
@@ -71,7 +71,7 @@
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 109,
-    "timeWeek": 132,
+    "timeWeek": 135,
     "timeMonth": 144,
     "timeYear": 194,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 175,
-    "timeWeek": 180,
+    "timeWeek": 177,
     "timeMonth": 190,
     "timeYear": 211,
     "dailyMinutesDown": {}
@@ -130,7 +130,7 @@
     "uptimeYear": "100.00%",
     "time": 472,
     "timeDay": 384,
-    "timeWeek": 510,
+    "timeWeek": 522,
     "timeMonth": 462,
     "timeYear": 472,
     "dailyMinutesDown": {}
@@ -148,7 +148,7 @@
     "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 617,
-    "timeWeek": 513,
+    "timeWeek": 529,
     "timeMonth": 487,
     "timeYear": 507,
     "dailyMinutesDown": {}
@@ -166,7 +166,7 @@
     "uptimeYear": "100.00%",
     "time": 719,
     "timeDay": 826,
-    "timeWeek": 718,
+    "timeWeek": 723,
     "timeMonth": 718,
     "timeYear": 719,
     "dailyMinutesDown": {}
@@ -184,7 +184,7 @@
     "uptimeYear": "99.99%",
     "time": 577,
     "timeDay": 567,
-    "timeWeek": 430,
+    "timeWeek": 438,
     "timeMonth": 580,
     "timeYear": 577,
     "dailyMinutesDown": {
@@ -205,7 +205,7 @@
     "uptimeYear": "100.00%",
     "time": 661,
     "timeDay": 709,
-    "timeWeek": 617,
+    "timeWeek": 622,
     "timeMonth": 844,
     "timeYear": 661,
     "dailyMinutesDown": {}
@@ -223,7 +223,7 @@
     "uptimeYear": "99.99%",
     "time": 355,
     "timeDay": 280,
-    "timeWeek": 313,
+    "timeWeek": 303,
     "timeMonth": 315,
     "timeYear": 355,
     "dailyMinutesDown": {
