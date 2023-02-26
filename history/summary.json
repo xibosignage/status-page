@@ -4,18 +4,19 @@
     "url": "https://xibosignage.com",
     "icon": "https://icons.duckduckgo.com/ip3/xibosignage.com.ico",
     "slug": "xibo-signage-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 756,
     "timeDay": 776,
     "timeWeek": 838,
-    "timeMonth": 807,
+    "timeMonth": 803,
     "timeYear": 756,
     "dailyMinutesDown": {
+      "2023-02-26": 1,
       "2022-11-10": 34,
       "2022-09-20": 24
     }
@@ -34,7 +35,7 @@
     "time": 404,
     "timeDay": 272,
     "timeWeek": 819,
-    "timeMonth": 1275,
+    "timeMonth": 1306,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2022-10-12": 16
@@ -54,7 +55,7 @@
     "time": 444,
     "timeDay": 403,
     "timeWeek": 455,
-    "timeMonth": 435,
+    "timeMonth": 433,
     "timeYear": 444,
     "dailyMinutesDown": {}
   },
@@ -72,7 +73,7 @@
     "time": 191,
     "timeDay": 170,
     "timeWeek": 160,
-    "timeMonth": 155,
+    "timeMonth": 156,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2022-06-13": 14
@@ -92,7 +93,7 @@
     "time": 213,
     "timeDay": 188,
     "timeWeek": 221,
-    "timeMonth": 229,
+    "timeMonth": 230,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -110,7 +111,7 @@
     "time": 393,
     "timeDay": 294,
     "timeWeek": 333,
-    "timeMonth": 306,
+    "timeMonth": 307,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2022-06-14": 25,
@@ -131,7 +132,7 @@
     "time": 482,
     "timeDay": 423,
     "timeWeek": 454,
-    "timeMonth": 591,
+    "timeMonth": 597,
     "timeYear": 482,
     "dailyMinutesDown": {}
   },
@@ -149,7 +150,7 @@
     "time": 502,
     "timeDay": 464,
     "timeWeek": 502,
-    "timeMonth": 464,
+    "timeMonth": 466,
     "timeYear": 502,
     "dailyMinutesDown": {}
   },
@@ -167,7 +168,7 @@
     "time": 713,
     "timeDay": 662,
     "timeWeek": 614,
-    "timeMonth": 654,
+    "timeMonth": 653,
     "timeYear": 713,
     "dailyMinutesDown": {}
   },
@@ -185,7 +186,7 @@
     "time": 565,
     "timeDay": 406,
     "timeWeek": 373,
-    "timeMonth": 407,
+    "timeMonth": 408,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2022-10-25": 24,
@@ -215,18 +216,19 @@
     "url": "$PLAYER_LICENSE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-player-license-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 354,
     "timeDay": 316,
     "timeWeek": 343,
-    "timeMonth": 335,
+    "timeMonth": 334,
     "timeYear": 354,
     "dailyMinutesDown": {
+      "2023-02-26": 0,
       "2022-11-10": 34,
       "2022-09-20": 23
     }
