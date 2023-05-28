@@ -1,7 +1,7 @@
 url: $CLOUD_AUS_URL
-status: up
-code: 200
+status: down
+code: 503
 responseTime: 371
-lastUpdated: 2023-05-27T23:05:03.135Z
+lastUpdated: 2023-05-28T16:03:21.942Z
 startTime: Sat Apr 02 2022 11:30:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
