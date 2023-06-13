@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 750,
-    "timeDay": 938,
-    "timeWeek": 631,
+    "timeDay": 562,
+    "timeWeek": 627,
     "timeMonth": 765,
     "timeYear": 777,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 290,
-    "timeWeek": 274,
-    "timeMonth": 609,
+    "time": 400,
+    "timeDay": 259,
+    "timeWeek": 278,
+    "timeMonth": 610,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2022-10-12": 16
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
-    "timeDay": 473,
-    "timeWeek": 390,
+    "timeDay": 355,
+    "timeWeek": 395,
     "timeMonth": 533,
     "timeYear": 452,
     "dailyMinutesDown": {}
@@ -70,13 +70,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 156,
+    "timeDay": 94,
     "timeWeek": 171,
-    "timeMonth": 153,
+    "timeMonth": 154,
     "timeYear": 188,
-    "dailyMinutesDown": {
-      "2022-06-13": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xibo Cloud CDN United States/New York",
@@ -90,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 213,
-    "timeWeek": 161,
-    "timeMonth": 329,
+    "timeDay": 109,
+    "timeWeek": 150,
+    "timeMonth": 328,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -108,13 +106,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 375,
-    "timeDay": 307,
-    "timeWeek": 264,
-    "timeMonth": 299,
+    "timeDay": 287,
+    "timeWeek": 269,
+    "timeMonth": 297,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-06-14": 25,
-      "2022-06-13": 14
+      "2022-06-14": 25
     }
   },
   {
@@ -128,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 491,
+    "time": 478,
+    "timeDay": 348,
     "timeWeek": 381,
-    "timeMonth": 584,
-    "timeYear": 485,
+    "timeMonth": 583,
+    "timeYear": 484,
     "dailyMinutesDown": {}
   },
   {
@@ -147,9 +144,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 506,
-    "timeDay": 357,
-    "timeWeek": 538,
-    "timeMonth": 586,
+    "timeDay": 575,
+    "timeWeek": 537,
+    "timeMonth": 589,
     "timeYear": 501,
     "dailyMinutesDown": {}
   },
@@ -165,9 +162,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 720,
-    "timeDay": 554,
+    "timeDay": 737,
     "timeWeek": 748,
-    "timeMonth": 853,
+    "timeMonth": 834,
     "timeYear": 714,
     "dailyMinutesDown": {}
   },
@@ -183,10 +180,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 607,
-    "timeDay": 318,
-    "timeWeek": 460,
+    "timeDay": 479,
+    "timeWeek": 461,
     "timeMonth": 420,
-    "timeYear": 635,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2023-05-28": 44,
       "2023-03-29": 30,
@@ -205,10 +202,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 491,
-    "timeWeek": 674,
-    "timeMonth": 616,
+    "time": 649,
+    "timeDay": 735,
+    "timeWeek": 683,
+    "timeMonth": 618,
     "timeYear": 647,
     "dailyMinutesDown": {}
   },
@@ -224,8 +221,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 351,
-    "timeDay": 376,
-    "timeWeek": 349,
+    "timeDay": 268,
+    "timeWeek": 346,
     "timeMonth": 448,
     "timeYear": 353,
     "dailyMinutesDown": {
