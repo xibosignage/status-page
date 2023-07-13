@@ -6,9 +6,9 @@
     "slug": "xibo-signage-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 748,
     "timeDay": 919,
@@ -16,7 +16,6 @@
     "timeMonth": 716,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2023-07-12": 15,
       "2022-11-10": 34,
       "2022-09-20": 24
     }
