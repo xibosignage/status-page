@@ -194,19 +194,19 @@
     "url": "$CLOUD_AUS_CDN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-cdn-australia-sydney",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 644,
-    "timeDay": 702,
-    "timeWeek": 716,
+    "timeDay": 674,
+    "timeWeek": 707,
     "timeMonth": 640,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-09-13": 0
+      "2023-09-13": 21
     }
   },
   {
