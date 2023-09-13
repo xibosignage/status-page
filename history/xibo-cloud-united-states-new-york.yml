@@ -1,7 +1,7 @@
 url: $CLOUD_NYC_URL
-status: down
-code: 503
-responseTime: 311
-lastUpdated: 2023-09-13T18:12:40.823Z
+status: up
+code: 200
+responseTime: 304
+lastUpdated: 2023-09-13T18:24:12.240Z
 startTime: 2022-04-02T11:30:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
