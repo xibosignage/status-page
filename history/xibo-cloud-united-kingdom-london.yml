@@ -1,7 +1,7 @@
 url: $CLOUD_GB_URL
-status: down
-code: 503
-responseTime: 339
-lastUpdated: 2023-10-07T20:03:08.918Z
+status: up
+code: 200
+responseTime: 265
+lastUpdated: 2023-10-07T20:12:46.526Z
 startTime: 2022-04-02T11:30:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
