@@ -81,20 +81,18 @@
     "url": "$CLOUD_NYC_CDN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-cdn-united-states-new-york",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 295,
-    "timeWeek": 187,
-    "timeMonth": 203,
-    "timeYear": 229,
-    "dailyMinutesDown": {
-      "2023-10-16": 0
-    }
+    "time": 238,
+    "timeDay": 2113,
+    "timeWeek": 655,
+    "timeMonth": 323,
+    "timeYear": 239,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xibo Cloud Germany/Frankfurt",
