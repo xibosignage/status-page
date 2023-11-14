@@ -133,19 +133,19 @@
     "url": "$CLOUD_SGP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-singapore-singapore",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 5466,
-    "timeWeek": 2802,
-    "timeMonth": 1031,
-    "timeYear": 543,
+    "timeDay": 3839,
+    "timeWeek": 2555,
+    "timeMonth": 1017,
+    "timeYear": 544,
     "dailyMinutesDown": {
-      "2023-11-14": 0
+      "2023-11-14": 10
     }
   },
   {
