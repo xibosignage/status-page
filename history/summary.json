@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 475,
-    "timeWeek": 677,
-    "timeMonth": 694,
-    "timeYear": 760,
+    "time": 775,
+    "timeDay": 604,
+    "timeWeek": 633,
+    "timeMonth": 696,
+    "timeYear": 759,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 434,
-    "timeDay": 292,
-    "timeWeek": 283,
-    "timeMonth": 472,
+    "timeDay": 230,
+    "timeWeek": 272,
+    "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2023-10-07": 15,
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
-    "timeDay": 295,
-    "timeWeek": 433,
+    "timeDay": 331,
+    "timeWeek": 414,
     "timeMonth": 447,
-    "timeYear": 437,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   },
   {
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 167,
+    "timeDay": 171,
     "timeWeek": 186,
-    "timeMonth": 422,
+    "timeMonth": 424,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -81,18 +81,16 @@
     "slug": "xibo-cloud-cdn-united-states-new-york",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 154,
-    "timeWeek": 199,
+    "timeDay": 156,
+    "timeWeek": 180,
     "timeMonth": 202,
-    "timeYear": 237,
-    "dailyMinutesDown": {
-      "2023-11-20": 7
-    }
+    "timeYear": 236,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xibo Cloud Germany/Frankfurt",
@@ -106,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 249,
-    "timeWeek": 298,
-    "timeMonth": 297,
+    "timeDay": 248,
+    "timeWeek": 286,
+    "timeMonth": 294,
     "timeYear": 388,
     "dailyMinutesDown": {}
   },
@@ -124,10 +122,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 484,
-    "timeDay": 410,
-    "timeWeek": 448,
-    "timeMonth": 563,
-    "timeYear": 477,
+    "timeDay": 343,
+    "timeWeek": 426,
+    "timeMonth": 562,
+    "timeYear": 476,
     "dailyMinutesDown": {}
   },
   {
@@ -142,9 +140,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 548,
-    "timeWeek": 1634,
-    "timeMonth": 1042,
+    "timeDay": 554,
+    "timeWeek": 1652,
+    "timeMonth": 1043,
     "timeYear": 545,
     "dailyMinutesDown": {}
   },
@@ -160,10 +158,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 738,
-    "timeDay": 829,
-    "timeWeek": 714,
+    "timeDay": 768,
+    "timeWeek": 742,
     "timeMonth": 820,
-    "timeYear": 750,
+    "timeYear": 751,
     "dailyMinutesDown": {}
   },
   {
@@ -177,9 +175,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 631,
-    "timeDay": 499,
-    "timeWeek": 450,
+    "time": 609,
+    "timeDay": 481,
+    "timeWeek": 478,
     "timeMonth": 437,
     "timeYear": 611,
     "dailyMinutesDown": {
@@ -199,10 +197,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 660,
-    "timeDay": 771,
-    "timeWeek": 646,
-    "timeMonth": 763,
-    "timeYear": 671,
+    "timeDay": 700,
+    "timeWeek": 681,
+    "timeMonth": 762,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2023-09-13": 21
     }
@@ -219,10 +217,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 295,
-    "timeWeek": 337,
-    "timeMonth": 326,
-    "timeYear": 365,
+    "timeDay": 242,
+    "timeWeek": 316,
+    "timeMonth": 325,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   }
 ]
