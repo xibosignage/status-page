@@ -214,17 +214,19 @@
     "url": "$PLAYER_LICENSE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-player-license-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 251,
-    "timeWeek": 292,
-    "timeMonth": 277,
+    "timeDay": 228,
+    "timeWeek": 281,
+    "timeMonth": 275,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   }
 ]
