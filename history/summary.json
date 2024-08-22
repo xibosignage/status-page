@@ -100,18 +100,20 @@
     "url": "$CLOUD_DEU_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-germany-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 249,
-    "timeWeek": 269,
-    "timeMonth": 286,
-    "timeYear": 315,
-    "dailyMinutesDown": {}
+    "time": 332,
+    "timeDay": 5225,
+    "timeWeek": 1510,
+    "timeMonth": 596,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2024-08-22": 0
+    }
   },
   {
     "name": "Xibo Cloud CDN Germany/Frankfurt",
