@@ -174,9 +174,9 @@
     "slug": "xibo-cloud-australia-sydney",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 539,
     "timeDay": 3666,
@@ -184,7 +184,6 @@
     "timeMonth": 676,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-09-17": 14,
       "2024-02-16": 17,
       "2023-12-01": 21
     }
