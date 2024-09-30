@@ -100,19 +100,19 @@
     "url": "$CLOUD_DEU_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-germany-frankfurt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 338,
-    "timeDay": 247,
-    "timeWeek": 266,
-    "timeMonth": 409,
-    "timeYear": 343,
+    "timeDay": 223,
+    "timeWeek": 258,
+    "timeMonth": 402,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-09-30": 0
+      "2024-09-30": 11
     }
   },
   {
