@@ -42,18 +42,20 @@
     "url": "$CLOUD_GB_CDN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-cdn-united-kingdom-london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 422,
+    "time": 423,
     "timeDay": 291,
     "timeWeek": 397,
     "timeMonth": 402,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "Xibo Cloud United States/New York",
