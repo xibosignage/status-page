@@ -190,18 +190,20 @@
     "url": "$CLOUD_AUS_CDN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-cdn-australia-sydney",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 606,
+    "time": 607,
     "timeDay": 639,
     "timeWeek": 586,
     "timeMonth": 588,
     "timeYear": 600,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-28": 0
+    }
   },
   {
     "name": "Xibo Player License Service",
