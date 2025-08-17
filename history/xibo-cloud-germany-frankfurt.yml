@@ -1,7 +1,7 @@
 url: $CLOUD_DEU_URL
-status: down
-code: 503
-responseTime: 334
-lastUpdated: 2025-08-17T04:02:23.258Z
+status: up
+code: 200
+responseTime: 260
+lastUpdated: 2025-08-17T04:35:42.064Z
 startTime: 2022-04-02T11:30:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
