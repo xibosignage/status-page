@@ -60,18 +60,16 @@
     "slug": "xibo-cloud-united-states-new-york",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 3531,
     "timeWeek": 1279,
     "timeMonth": 447,
     "timeYear": 186,
-    "dailyMinutesDown": {
-      "2025-08-22": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xibo Cloud CDN United States/New York",
@@ -152,9 +150,9 @@
     "url": "$CLOUD_SGP_CDN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-cdn-singapore-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,7 +161,9 @@
     "timeWeek": 735,
     "timeMonth": 730,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "Xibo Cloud Australia/Sydney",
