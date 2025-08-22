@@ -58,19 +58,19 @@
     "url": "$CLOUD_NYC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-united-states-new-york",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 5184,
-    "timeWeek": 1411,
-    "timeMonth": 454,
-    "timeYear": 185,
+    "timeDay": 3531,
+    "timeWeek": 1279,
+    "timeMonth": 447,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-08-22": 0
+      "2025-08-22": 9
     }
   },
   {
