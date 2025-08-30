@@ -150,9 +150,9 @@
     "url": "$CLOUD_SGP_CDN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-cdn-singapore-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +161,9 @@
     "timeWeek": 727,
     "timeMonth": 727,
     "timeYear": 698,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-30": 0
+    }
   },
   {
     "name": "Xibo Cloud Australia/Sydney",
