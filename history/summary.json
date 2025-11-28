@@ -209,9 +209,9 @@
     "slug": "xibo-player-license-service",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 333,
     "timeDay": 287,
@@ -219,7 +219,6 @@
     "timeMonth": 305,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-11-28": 12,
       "2025-11-17": 28,
       "2025-05-08": 39
     }
