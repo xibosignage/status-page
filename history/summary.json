@@ -22,19 +22,19 @@
     "url": "$CLOUD_GB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-cloud-united-kingdom-london",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 312,
-    "timeWeek": 291,
-    "timeMonth": 359,
+    "time": 344,
+    "timeDay": 262,
+    "timeWeek": 276,
+    "timeMonth": 353,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-11-30": 0
+      "2025-11-30": 12
     }
   },
   {
