@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 843,
-    "timeWeek": 723,
-    "timeMonth": 731,
-    "timeYear": 637,
+    "timeDay": 509,
+    "timeWeek": 720,
+    "timeMonth": 726,
+    "timeYear": 636,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "xibo-cloud-united-kingdom-london",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 262,
-    "timeWeek": 276,
-    "timeMonth": 353,
-    "timeYear": 312,
-    "dailyMinutesDown": {
-      "2025-11-30": 12
-    }
+    "time": 345,
+    "timeDay": 246,
+    "timeWeek": 286,
+    "timeMonth": 354,
+    "timeYear": 311,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xibo Cloud CDN United Kingdom/London",
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 446,
-    "timeDay": 483,
-    "timeWeek": 424,
-    "timeMonth": 452,
-    "timeYear": 456,
+    "timeDay": 371,
+    "timeWeek": 438,
+    "timeMonth": 450,
+    "timeYear": 455,
     "dailyMinutesDown": {}
   },
   {
@@ -67,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 168,
-    "timeWeek": 206,
-    "timeMonth": 186,
-    "timeYear": 185,
+    "timeDay": 84,
+    "timeWeek": 177,
+    "timeMonth": 185,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   },
   {
@@ -85,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 268,
-    "timeWeek": 239,
+    "timeDay": 229,
+    "timeWeek": 253,
     "timeMonth": 248,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -103,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 322,
-    "timeDay": 328,
-    "timeWeek": 296,
-    "timeMonth": 317,
+    "timeDay": 200,
+    "timeWeek": 285,
+    "timeMonth": 314,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2025-08-17": 33
@@ -123,10 +121,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
-    "timeDay": 519,
-    "timeWeek": 474,
-    "timeMonth": 467,
-    "timeYear": 451,
+    "timeDay": 327,
+    "timeWeek": 444,
+    "timeMonth": 464,
+    "timeYear": 450,
     "dailyMinutesDown": {}
   },
   {
@@ -141,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
-    "timeDay": 357,
-    "timeWeek": 430,
-    "timeMonth": 438,
+    "timeDay": 560,
+    "timeWeek": 435,
+    "timeMonth": 445,
     "timeYear": 478,
     "dailyMinutesDown": {}
   },
@@ -159,10 +157,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 690,
-    "timeDay": 541,
-    "timeWeek": 614,
-    "timeMonth": 620,
-    "timeYear": 699,
+    "timeDay": 750,
+    "timeWeek": 618,
+    "timeMonth": 626,
+    "timeYear": 700,
     "dailyMinutesDown": {}
   },
   {
@@ -177,10 +175,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 552,
-    "timeDay": 409,
-    "timeWeek": 471,
-    "timeMonth": 487,
-    "timeYear": 539,
+    "timeDay": 524,
+    "timeWeek": 468,
+    "timeMonth": 490,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2025-05-19": 27,
       "2025-04-01": 39
@@ -198,10 +196,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
-    "timeDay": 450,
-    "timeWeek": 684,
-    "timeMonth": 673,
-    "timeYear": 622,
+    "timeDay": 713,
+    "timeWeek": 659,
+    "timeMonth": 679,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   },
   {
@@ -215,10 +213,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 333,
-    "timeDay": 328,
-    "timeWeek": 282,
-    "timeMonth": 304,
+    "time": 332,
+    "timeDay": 247,
+    "timeWeek": 293,
+    "timeMonth": 303,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-11-17": 28,
