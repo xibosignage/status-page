@@ -6,6 +6,12 @@ sites:
   - name: Xibo Signage Website
     url: https://xibosignage.com
     showAverageResponseTime: false
+  - name: Xibo Signage Website API
+    url: $WEBSITE_API_URL
+    showAverageResponseTime: false
+  - name: Xibo Signage Website My Account
+    url: https://account.xibosignage.com/login
+    showAverageResponseTime: false
   - name: Xibo Cloud United Kingdom/London
     url: $CLOUD_GB_URL
     showAverageResponseTime: false
