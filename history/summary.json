@@ -4,9 +4,9 @@
     "url": "https://xibosignage.com",
     "icon": "https://icons.duckduckgo.com/ip3/xibosignage.com.ico",
     "slug": "xibo-signage-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 727,
     "timeMonth": 677,
     "timeYear": 643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-18": 0
+    }
   },
   {
     "name": "Xibo Cloud United Kingdom/London",
@@ -207,9 +209,9 @@
     "url": "$PLAYER_LICENSE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-player-license-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -219,6 +221,7 @@
     "timeMonth": 296,
     "timeYear": 308,
     "dailyMinutesDown": {
+      "2026-01-18": 0,
       "2025-11-17": 28,
       "2025-05-08": 39
     }
