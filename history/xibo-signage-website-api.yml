@@ -1,7 +1,7 @@
 url: $WEBSITE_API_URL
-status: down
-code: 500
-responseTime: 910
-lastUpdated: 2026-02-06T06:27:51.854Z
+status: up
+code: 200
+responseTime: 1066
+lastUpdated: 2026-02-06T06:50:40.946Z
 startTime: 2026-01-18T23:01:09.255Z
 generator: Upptime <https://github.com/upptime/upptime>
