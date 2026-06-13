@@ -24,20 +24,21 @@
     "url": "$WEBSITE_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xibo-signage-website-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 797,
-    "timeDay": 480,
-    "timeWeek": 683,
-    "timeMonth": 865,
-    "timeYear": 797,
+    "time": 795,
+    "timeDay": 468,
+    "timeWeek": 655,
+    "timeMonth": 852,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2026-02-06": 23,
-      "2026-03-30": 23
+      "2026-03-30": 23,
+      "2026-06-13": 0
     }
   },
   {
