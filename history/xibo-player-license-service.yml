@@ -1,7 +1,7 @@
 url: $PLAYER_LICENSE_URL
-status: down
-code: 500
-responseTime: 181
-lastUpdated: 2026-11-22T22:50:24.789Z
+status: up
+code: 200
+responseTime: 255
+lastUpdated: 2026-11-23T03:16:23.759Z
 startTime: 2022-04-02T11:05:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
